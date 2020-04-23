@@ -15,7 +15,7 @@ export default class Blog extends Component {
 				<div className="row">
 					<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
 					<div className="blog-entry">
-						<a href="blog.html" className="blog-img"><img src="images/blog-1.jpg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
+						<a href="blog.html" className="blog-img"><img src="images/running-water.jpg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
 						<div className="desc">
 							<span><small>April 23, 2020 </small> | <small> Web Design </small> | <small> <i className="icon-bubble3" /> 4</small></span>
 							<h3><a href="blog.html"></a></h3>
@@ -25,7 +25,7 @@ export default class Blog extends Component {
 					</div>
 					<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInRight">
 					<div className="blog-entry">
-						<a href="blog.html" className="blog-img"><img src="images/blog-2.jpg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
+						<a href="blog.html" className="blog-img"><img src="images/treee.jpg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
 						<div className="desc">
 							<span><small>April 22, 2020 </small> | <small> Web Design </small> | <small> <i className="icon-bubble3" /> 4</small></span>
 							<h3><a href="blog.html">Wordpress for a Beginner</a></h3>
@@ -35,7 +35,7 @@ export default class Blog extends Component {
 					</div>
 					<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
 					<div className="blog-entry">
-						<a href="blog.html" className="blog-img"><img src="images/blog-3.jpg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
+						<a href="blog.html" className="blog-img"><img src="images/forest.jpg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
 						<div className="desc">
 							<span><small>April 22, 2020 </small> | <small> Inspiration </small> | <small> <i className="icon-bubble3" /> 4</small></span>
 							<h3><a href="blog.html">Make website from scratch</a></h3>
