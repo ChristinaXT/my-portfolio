@@ -42,7 +42,7 @@ export default class Timeline extends Component {
                       <div className="timeline-icon color-5">
                         <i className="icon-pen2" />
                       </div>
-                      
+
                     </div>
                   </article>
                   <article className="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
